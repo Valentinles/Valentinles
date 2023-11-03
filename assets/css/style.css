@@ -159,3 +159,7 @@ img {
     transition: all 0.4 ease;
     
 }
+
+div .col-lg-6 .card-custom .card-custom-content p {
+    height: 75px;
+}
